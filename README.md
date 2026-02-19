@@ -45,5 +45,12 @@ Code, methodology, and analysis are original and shared openly.
 
 ---
 
+## 🔹 Data Disclaimer
+This repository contains original code, methodology, and analysis developed during academic and professional projects.  
+Datasets used in coursework (e.g., Great Learning programs) are proprietary and therefore not included.  
+Where possible, synthetic or public datasets may be referenced for demonstration purposes.
+
+---
+
 📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/harshverma27) | [Portfolio](https://www.mygreatlearning.com/eportfolio/harsh-verma5)
 
