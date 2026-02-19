@@ -54,10 +54,10 @@ The dataset is balanced, with nearly equal representation of both classes.
 
 ## Visualizations
 
-### Class Distribution
+### Sample Images From Dataset
 ![Quick View](https://github.com/user-attachments/assets/ce1eaa2c-9b3c-41f7-868b-4deea8a65901)
 
-### Pixel Histogram
+### Class Distribution Histogram
 ![Histogram](https://github.com/user-attachments/assets/d6bae7bc-498d-443c-a67a-731a39ccb1a7)
 
 ### Preprocessing Example
